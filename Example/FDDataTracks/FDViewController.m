@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"测试git revert  git push");
 }
 
 - (void)didReceiveMemoryWarning
